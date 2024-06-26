@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 
 ## 📞 How to reach me
-  <a href="howdy3952@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+  <a href="mailto:howdy3952@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 </a>
 <br>
 
