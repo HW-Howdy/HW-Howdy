@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 About me
 
+  - Hi, I am SeongMyeong Shin living in South Korea.
+  - You can call me Howdy by nickname or Noah by stage name instead of name.
   - I'm learning to develop a game. Especially, I'm learning programming deeply.
 <br>
 
