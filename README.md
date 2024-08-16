@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 ## 📌 Github Stats
 
   ![howdy's github stats](https://github-readme-stats.vercel.app/api?username=HW-Howdy&theme=dark)
-  ![howdy's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HW-Howdy&show_icons=true&layout=compact&theme=dark)
+  ![howdy's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HW-Howdy&show_icons=true&layout=pie&theme=dark&hide=ASP.NET)
 <br>
 
 
