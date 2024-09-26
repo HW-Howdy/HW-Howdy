@@ -23,6 +23,7 @@ Here are some ideas to get you started:
   - Hi, I am SeongMyeong Shin living in South Korea.
   - You can call me Howdy by nickname or Noah by stage name instead of name.
   - I'm learning to develop a game. Especially, I'm learning programming deeply.
+  - I have participated as a Pisciner of <a href="https://www.42gyeongsan.kr/en/main.do">![42Gyeongsan](https://img.shields.io/badge/42Gyeongsan-%23000000.svg?style=for-the-badge&logo=42&logoColor=white)</a>
 <br>
 
 
@@ -58,8 +59,7 @@ Here are some ideas to get you started:
 
 
 ## 📞 How to reach me
-  <a href="mailto:howdy3952@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-</a>
+  <a href="mailto:howdy3952@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <br>
 
 
